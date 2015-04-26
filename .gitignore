@@ -14,3 +14,5 @@ hs_err_pid*
 
 # Don't ignore this.
 !.gitignore
+/MangafoxDownloader/build/
+/MangafoxDownloader/nbproject/private
